@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679595145265",
+    "project_id": "privchat0",
+    "storage_bucket": "privchat0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679595145265:android:6d6cf8fbd5feb27ce37d10",
+        "android_client_info": {
+          "package_name": "com.example.privchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcfCTJoJByWaeJu0vOcRFEgWc3vLEocx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
